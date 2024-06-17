@@ -1,0 +1,10 @@
+.vscode
+documents
+mananeras
+*.ann
+.venv
+.ipynb_checkpoints
+.DS_Store
+vector_store/
+.env
+*.gz
